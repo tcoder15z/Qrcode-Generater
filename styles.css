@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(rgb(100, 98, 123),rgb(2, 1, 15));
+    background-attachment: fixed;
+}
+
+form{
+    margin: 0 auto;
+    border: 1px solid ;
+    width: 400px;
+    padding: 20px;
+    background-color:white;
+    line-height: 30px;
+}
+label{
+    display: block;
+}
+input{
+    width: 70%;
+    height: 30px;
+   
+}
+.displayQr{
+    margin: 0 auto;
+    width:150px;
+    height: 150px;
+    border: 1px solid;
+    background-color: white;
+}
+.button{
+    text-align: center;
+}
+button{
+    background-color: #52cfb2;
+    width: 70%;
+    height: 25px;
+    border-radius:10px;
+}
+button:active{
+    background-color: #52cfb2;
+    
+}
